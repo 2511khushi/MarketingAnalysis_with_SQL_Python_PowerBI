@@ -36,4 +36,4 @@ By leveraging data-driven analysis and advanced sentiment techniques, this proje
 
 The findings provide a clear pathway for strategic improvements that can elevate ShopEasy’s competitive position and foster sustained growth.
 
-Explore the full set of interactive dashboards and detailed visual insights here - 
+Explore the full set of interactive dashboards and detailed visual insights here - https://github.com/2511khushi/MarketingAnalysis_with_SQL_Python_PowerBI/blob/main/ShopEasy.pbix
