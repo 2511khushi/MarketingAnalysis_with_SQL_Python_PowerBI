@@ -1,4 +1,4 @@
-# ShopEasy: Marketing and Sales Insights
+# ShopEasy - Marketing and Sales Insights
 
 ## Overview:
 ShopEasy, an online retail platform, is currently facing challenges such as declining customer engagement, falling conversion rates, and poor return on investment (ROI) from marketing campaigns. Despite significant marketing spend, the anticipated business growth has not been achieved. This project aims to investigate these issues through comprehensive data analysis of customer interactions and reviews to generate actionable insights that can improve customer experience, boost conversions, and optimize marketing strategies.
