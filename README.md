@@ -13,7 +13,7 @@ ShopEasy, an online retail platform, is currently facing challenges such as decl
 
 ## Dataset:
 The project dataset, including customer transaction data and reviews, is available in the repository.
-You can download it here - 
+You can download it here - https://github.com/2511khushi/MarketingAnalysis_with_SQL_Python_PowerBI/tree/main/Datasets
 
 
 ## Tech Stack:
