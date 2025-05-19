@@ -1,0 +1,501 @@
+CustomerID,ProductID,ReviewDate,Rating,ReviewText
+C050,P054,2025-03-19,4,Would definitely recommend
+C070,P078,2024-09-27,5,Best purchase I've made this year!
+C029,P035,2024-10-13,4,Great quality for the price
+C050,P044,2024-07-12,5,Best purchase I've made this year!
+C093,P022,2025-01-04,5,Absolutely love this product!
+C080,P069,2024-12-08,1,Complete waste of money
+C076,P073,2024-11-08,5,Absolutely love this product!
+C083,P055,2024-12-21,2,Some quality issues
+C024,P007,2024-05-21,3,Meets basic expectations
+C028,P059,2024-07-08,3,Meets basic expectations
+C036,P097,2024-06-21,5,Best purchase I've made this year!
+C033,P011,2024-10-23,4,Would definitely recommend
+C070,P007,2025-05-04,5,Best purchase I've made this year!
+C029,P084,2025-01-28,2,Not worth the price
+C006,P097,2025-02-21,1,Terrible product
+C026,P003,2024-07-27,4,Great quality for the price
+C017,P061,2025-01-29,5,Exceeded all my expectations
+C028,P060,2024-07-14,5,Best purchase I've made this year!
+C022,P078,2024-05-18,4,Would definitely recommend
+C092,P015,2024-07-14,5,Absolutely love this product!
+C040,P014,2024-07-09,4,Very satisfied with this purchase
+C074,P087,2024-12-17,5,Best purchase I've made this year!
+C051,P092,2024-05-28,3,Average product
+C089,P081,2025-03-01,3,Average product
+C099,P039,2025-01-30,5,Exceeded all my expectations
+C016,P073,2024-08-22,5,Best purchase I've made this year!
+C069,P055,2024-10-01,5,Absolutely love this product!
+C065,P083,2024-06-12,3,Meets basic expectations
+C063,P014,2024-11-13,4,Very satisfied with this purchase
+C082,P059,2024-07-23,5,Best purchase I've made this year!
+C023,P094,2025-03-16,4,Would definitely recommend
+C035,P079,2024-09-13,5,Exceeded all my expectations
+C100,P062,2024-06-21,4,Would definitely recommend
+C076,P035,2024-12-25,3,"It's okay, nothing special"
+C012,P036,2024-11-15,5,Absolutely love this product!
+C097,P060,2025-05-02,4,Would definitely recommend
+C049,P044,2024-08-01,1,Complete waste of money
+C024,P063,2024-11-04,3,Meets basic expectations
+C044,P036,2024-07-10,5,Exceeded all my expectations
+C036,P072,2025-05-05,1,Terrible product
+C011,P031,2025-04-03,5,Best purchase I've made this year!
+C072,P098,2024-06-05,3,Meets basic expectations
+C083,P092,2024-08-07,4,Great quality for the price
+C012,P038,2025-02-26,3,Average product
+C032,P040,2025-03-23,5,Best purchase I've made this year!
+C061,P071,2025-04-10,4,Very satisfied with this purchase
+C096,P071,2024-08-22,3,Average product
+C059,P035,2025-01-12,3,"It's okay, nothing special"
+C016,P093,2025-03-12,3,"It's okay, nothing special"
+C096,P069,2024-11-28,5,Exceeded all my expectations
+C024,P025,2024-05-27,3,Meets basic expectations
+C036,P093,2024-12-08,4,Would definitely recommend
+C077,P037,2025-03-22,5,Absolutely love this product!
+C038,P030,2025-02-11,4,Very satisfied with this purchase
+C002,P091,2024-06-28,4,Very satisfied with this purchase
+C006,P007,2024-11-03,4,Would definitely recommend
+C017,P082,2024-07-06,5,Best purchase I've made this year!
+C014,P002,2024-12-14,4,Very satisfied with this purchase
+C062,P057,2024-10-05,3,"It's okay, nothing special"
+C033,P062,2024-06-03,2,Could be better
+C052,P063,2024-09-01,2,Not worth the price
+C088,P007,2024-10-18,3,Average product
+C039,P011,2024-06-22,5,Absolutely love this product!
+C072,P098,2024-11-12,4,Would definitely recommend
+C080,P029,2024-12-18,5,Best purchase I've made this year!
+C058,P057,2025-02-08,3,Average product
+C055,P040,2025-02-28,4,Great quality for the price
+C079,P095,2024-12-22,2,Could be better
+C081,P028,2025-02-04,3,"It's okay, nothing special"
+C021,P031,2024-10-11,3,"It's okay, nothing special"
+C021,P001,2024-10-07,4,Would definitely recommend
+C077,P061,2024-05-23,3,"It's okay, nothing special"
+C037,P091,2025-03-23,3,Meets basic expectations
+C010,P088,2025-03-24,3,Meets basic expectations
+C081,P076,2024-06-21,5,Absolutely love this product!
+C055,P015,2025-02-20,4,Would definitely recommend
+C020,P035,2024-07-30,5,Absolutely love this product!
+C008,P022,2024-11-25,5,Exceeded all my expectations
+C096,P073,2025-05-01,5,Best purchase I've made this year!
+C016,P060,2024-11-16,5,Exceeded all my expectations
+C052,P035,2024-06-26,4,Very satisfied with this purchase
+C057,P011,2024-10-17,4,Very satisfied with this purchase
+C095,P042,2025-01-31,4,Great quality for the price
+C012,P030,2024-07-19,5,Exceeded all my expectations
+C076,P003,2025-04-21,5,Exceeded all my expectations
+C035,P074,2024-09-13,1,Terrible product
+C061,P067,2024-07-18,5,Best purchase I've made this year!
+C024,P075,2025-02-25,4,Very satisfied with this purchase
+C012,P061,2024-12-22,3,Meets basic expectations
+C042,P086,2024-07-12,2,Could be better
+C043,P053,2025-02-21,5,Best purchase I've made this year!
+C085,P052,2025-05-11,5,Exceeded all my expectations
+C005,P059,2024-06-10,2,Some quality issues
+C042,P015,2025-02-10,5,Best purchase I've made this year!
+C066,P001,2025-05-06,5,Exceeded all my expectations
+C060,P053,2025-03-09,2,Not worth the price
+C047,P080,2024-10-11,5,Exceeded all my expectations
+C057,P098,2024-07-24,2,Some quality issues
+C071,P017,2024-10-13,5,Best purchase I've made this year!
+C090,P063,2025-02-08,2,Not worth the price
+C078,P031,2025-01-08,5,Best purchase I've made this year!
+C071,P002,2025-03-21,4,Great quality for the price
+C029,P015,2024-10-20,4,Great quality for the price
+C083,P020,2025-01-12,4,Would definitely recommend
+C038,P066,2025-01-30,5,Best purchase I've made this year!
+C062,P061,2025-01-30,3,Average product
+C019,P050,2025-02-23,3,Average product
+C066,P096,2024-07-31,5,Absolutely love this product!
+C036,P099,2024-10-14,5,Best purchase I've made this year!
+C044,P065,2025-04-23,3,"It's okay, nothing special"
+C037,P093,2024-09-17,3,Average product
+C075,P085,2024-09-08,4,Great quality for the price
+C058,P069,2024-06-24,4,Very satisfied with this purchase
+C071,P098,2024-11-30,4,Very satisfied with this purchase
+C042,P025,2025-02-14,5,Absolutely love this product!
+C074,P050,2024-07-08,3,Meets basic expectations
+C006,P041,2024-09-24,5,Exceeded all my expectations
+C049,P050,2024-08-16,5,Exceeded all my expectations
+C020,P064,2024-11-20,5,Absolutely love this product!
+C065,P076,2025-02-11,3,"It's okay, nothing special"
+C057,P013,2025-05-07,4,Very satisfied with this purchase
+C002,P093,2025-04-15,2,Not worth the price
+C020,P010,2024-10-31,4,Very satisfied with this purchase
+C044,P080,2024-05-15,5,Exceeded all my expectations
+C011,P043,2025-04-10,5,Exceeded all my expectations
+C049,P041,2024-08-01,4,Very satisfied with this purchase
+C070,P005,2024-08-20,4,Great quality for the price
+C081,P088,2024-10-27,5,Absolutely love this product!
+C096,P012,2024-12-28,4,Great quality for the price
+C098,P082,2025-03-19,5,Absolutely love this product!
+C057,P022,2024-12-05,5,Absolutely love this product!
+C006,P042,2024-11-05,5,Best purchase I've made this year!
+C046,P048,2024-08-17,4,Great quality for the price
+C068,P053,2024-10-21,4,Great quality for the price
+C022,P023,2025-03-28,2,Some quality issues
+C080,P088,2025-01-28,3,Average product
+C019,P030,2024-05-23,4,Very satisfied with this purchase
+C059,P033,2025-02-16,5,Best purchase I've made this year!
+C037,P087,2024-06-05,4,Great quality for the price
+C057,P045,2025-01-11,5,Best purchase I've made this year!
+C082,P055,2024-11-22,5,Best purchase I've made this year!
+C039,P026,2024-12-11,5,Best purchase I've made this year!
+C014,P031,2024-05-19,4,Very satisfied with this purchase
+C074,P038,2024-10-04,5,Best purchase I've made this year!
+C003,P085,2024-12-26,4,Great quality for the price
+C073,P088,2025-01-27,5,Absolutely love this product!
+C078,P096,2025-01-26,4,Very satisfied with this purchase
+C100,P030,2024-10-22,4,Very satisfied with this purchase
+C029,P082,2024-05-21,3,Meets basic expectations
+C087,P097,2024-10-13,5,Exceeded all my expectations
+C088,P018,2025-03-02,4,Would definitely recommend
+C083,P006,2025-03-18,3,Meets basic expectations
+C005,P075,2024-10-01,4,Great quality for the price
+C012,P038,2025-03-27,3,Meets basic expectations
+C023,P026,2024-10-05,2,Not worth the price
+C047,P068,2024-09-15,4,Very satisfied with this purchase
+C022,P033,2024-09-05,5,Best purchase I've made this year!
+C038,P096,2024-08-16,5,Absolutely love this product!
+C060,P010,2025-02-01,2,Could be better
+C087,P093,2024-11-18,5,Best purchase I've made this year!
+C072,P047,2024-06-24,2,Some quality issues
+C002,P034,2024-07-27,4,Very satisfied with this purchase
+C048,P087,2025-01-01,5,Best purchase I've made this year!
+C075,P049,2024-11-13,5,Best purchase I've made this year!
+C014,P087,2024-08-09,3,"It's okay, nothing special"
+C080,P072,2024-09-07,3,Average product
+C029,P083,2025-04-28,2,Some quality issues
+C090,P039,2024-05-31,4,Great quality for the price
+C018,P006,2024-09-26,5,Best purchase I've made this year!
+C064,P015,2024-05-30,2,Not worth the price
+C018,P050,2024-06-11,4,Would definitely recommend
+C096,P090,2025-04-23,5,Best purchase I've made this year!
+C076,P096,2024-06-03,5,Best purchase I've made this year!
+C084,P013,2024-06-30,5,Exceeded all my expectations
+C053,P036,2025-01-03,1,Complete waste of money
+C028,P057,2024-09-18,4,Great quality for the price
+C047,P013,2025-04-18,5,Best purchase I've made this year!
+C070,P083,2024-12-28,4,Very satisfied with this purchase
+C036,P025,2024-08-01,5,Best purchase I've made this year!
+C012,P085,2025-02-09,3,Average product
+C077,P003,2024-10-04,2,Some quality issues
+C032,P017,2025-04-26,5,Absolutely love this product!
+C009,P098,2024-07-03,4,Would definitely recommend
+C028,P030,2024-09-13,3,"It's okay, nothing special"
+C077,P001,2025-05-02,3,"It's okay, nothing special"
+C017,P070,2024-05-31,3,"It's okay, nothing special"
+C015,P085,2024-11-16,5,Absolutely love this product!
+C002,P046,2024-11-02,5,Absolutely love this product!
+C076,P042,2024-09-18,1,Complete waste of money
+C007,P017,2024-05-31,5,Exceeded all my expectations
+C015,P096,2024-05-30,2,Some quality issues
+C100,P047,2025-04-05,4,Great quality for the price
+C058,P065,2025-01-09,3,Average product
+C006,P094,2024-11-13,5,Exceeded all my expectations
+C067,P039,2024-10-28,4,Great quality for the price
+C008,P062,2025-01-13,5,Best purchase I've made this year!
+C088,P014,2024-09-05,4,Very satisfied with this purchase
+C010,P011,2025-02-28,3,"It's okay, nothing special"
+C009,P017,2024-07-03,3,Average product
+C075,P071,2024-06-10,5,Best purchase I've made this year!
+C077,P068,2025-01-13,3,Average product
+C078,P056,2024-12-14,2,Not worth the price
+C015,P084,2024-08-28,5,Exceeded all my expectations
+C093,P028,2025-01-28,4,Great quality for the price
+C053,P044,2025-01-24,5,Best purchase I've made this year!
+C054,P094,2024-10-21,2,Some quality issues
+C041,P086,2024-06-17,3,"It's okay, nothing special"
+C088,P061,2025-04-30,2,Could be better
+C012,P056,2024-12-31,2,Not worth the price
+C048,P017,2024-08-18,4,Would definitely recommend
+C072,P072,2024-06-10,3,"It's okay, nothing special"
+C053,P046,2025-01-15,5,Best purchase I've made this year!
+C093,P007,2024-10-05,5,Exceeded all my expectations
+C040,P046,2025-02-07,2,Not worth the price
+C028,P020,2025-03-06,5,Absolutely love this product!
+C014,P045,2025-03-10,5,Best purchase I've made this year!
+C015,P098,2025-04-17,3,"It's okay, nothing special"
+C055,P072,2024-08-29,5,Exceeded all my expectations
+C079,P087,2024-08-08,4,Great quality for the price
+C078,P085,2024-07-02,5,Best purchase I've made this year!
+C004,P024,2025-04-11,3,Meets basic expectations
+C044,P045,2024-07-13,1,Terrible product
+C073,P085,2024-09-13,4,Great quality for the price
+C095,P082,2025-03-20,5,Absolutely love this product!
+C096,P068,2025-01-08,3,Meets basic expectations
+C059,P044,2024-11-17,3,Meets basic expectations
+C093,P042,2025-01-27,5,Exceeded all my expectations
+C077,P011,2024-05-13,5,Absolutely love this product!
+C021,P097,2025-02-25,4,Would definitely recommend
+C011,P035,2024-05-15,4,Very satisfied with this purchase
+C063,P078,2024-12-11,4,Very satisfied with this purchase
+C028,P097,2025-01-05,4,Very satisfied with this purchase
+C056,P015,2025-04-28,3,Average product
+C076,P063,2024-10-25,4,Very satisfied with this purchase
+C006,P029,2024-08-08,4,Would definitely recommend
+C008,P001,2025-03-25,3,"It's okay, nothing special"
+C099,P018,2024-12-31,5,Best purchase I've made this year!
+C042,P016,2024-10-27,1,Would never buy again
+C056,P023,2025-01-06,2,Not worth the price
+C091,P030,2024-12-15,4,Would definitely recommend
+C046,P010,2024-08-13,4,Would definitely recommend
+C006,P056,2024-08-17,1,Terrible product
+C041,P074,2025-02-23,4,Very satisfied with this purchase
+C091,P082,2024-06-16,4,Great quality for the price
+C052,P003,2024-11-29,5,Absolutely love this product!
+C080,P059,2024-12-24,5,Best purchase I've made this year!
+C012,P056,2025-01-02,5,Absolutely love this product!
+C056,P076,2025-03-03,4,Great quality for the price
+C051,P040,2024-09-16,5,Absolutely love this product!
+C043,P100,2024-07-20,3,Average product
+C082,P015,2024-09-28,4,Great quality for the price
+C100,P045,2024-06-16,4,Would definitely recommend
+C019,P031,2025-02-10,2,Some quality issues
+C026,P023,2024-07-24,4,Would definitely recommend
+C010,P023,2024-11-05,5,Exceeded all my expectations
+C064,P060,2025-01-28,5,Exceeded all my expectations
+C058,P088,2024-10-17,5,Exceeded all my expectations
+C083,P082,2024-07-07,5,Best purchase I've made this year!
+C081,P041,2025-03-19,3,"It's okay, nothing special"
+C061,P057,2024-09-05,4,Very satisfied with this purchase
+C076,P008,2025-03-12,4,Great quality for the price
+C040,P060,2024-09-02,4,Great quality for the price
+C048,P037,2024-07-20,2,Could be better
+C079,P077,2025-03-05,4,Very satisfied with this purchase
+C075,P071,2024-12-30,5,Exceeded all my expectations
+C006,P058,2025-03-03,5,Exceeded all my expectations
+C084,P025,2025-04-11,3,Meets basic expectations
+C065,P020,2024-11-05,5,Best purchase I've made this year!
+C014,P044,2024-08-12,5,Absolutely love this product!
+C065,P083,2024-10-14,3,"It's okay, nothing special"
+C091,P057,2024-11-27,5,Exceeded all my expectations
+C067,P079,2025-05-06,3,Meets basic expectations
+C037,P050,2024-08-14,4,Very satisfied with this purchase
+C087,P077,2025-03-05,2,Not worth the price
+C083,P043,2024-11-30,2,Could be better
+C072,P087,2024-10-16,4,Very satisfied with this purchase
+C093,P085,2025-02-23,5,Exceeded all my expectations
+C020,P043,2025-02-25,2,Not worth the price
+C019,P045,2025-02-16,3,Average product
+C090,P085,2024-11-09,4,Would definitely recommend
+C091,P011,2025-02-20,3,Meets basic expectations
+C083,P043,2024-06-17,5,Exceeded all my expectations
+C090,P095,2024-09-08,5,Exceeded all my expectations
+C012,P083,2024-08-30,5,Exceeded all my expectations
+C047,P003,2024-11-21,4,Great quality for the price
+C028,P044,2024-12-11,5,Best purchase I've made this year!
+C025,P029,2025-04-27,5,Absolutely love this product!
+C010,P038,2025-03-05,5,Absolutely love this product!
+C065,P099,2024-12-19,4,Would definitely recommend
+C068,P005,2024-09-23,5,Exceeded all my expectations
+C017,P077,2024-12-12,4,Great quality for the price
+C024,P089,2024-07-22,5,Absolutely love this product!
+C093,P057,2024-12-25,1,Complete waste of money
+C087,P093,2025-01-26,3,Meets basic expectations
+C079,P037,2024-06-19,5,Best purchase I've made this year!
+C030,P069,2024-08-26,3,Meets basic expectations
+C025,P048,2024-11-02,5,Exceeded all my expectations
+C057,P060,2025-02-11,5,Best purchase I've made this year!
+C065,P068,2024-05-20,4,Great quality for the price
+C026,P078,2025-02-11,2,Some quality issues
+C007,P083,2025-03-26,4,Very satisfied with this purchase
+C071,P014,2024-05-29,5,Exceeded all my expectations
+C016,P037,2024-08-15,2,Could be better
+C035,P058,2024-06-28,5,Absolutely love this product!
+C056,P012,2024-07-27,5,Absolutely love this product!
+C058,P045,2024-09-21,5,Best purchase I've made this year!
+C007,P051,2025-03-02,4,Great quality for the price
+C050,P011,2024-08-13,4,Great quality for the price
+C041,P013,2024-06-16,5,Exceeded all my expectations
+C043,P019,2024-09-08,2,Some quality issues
+C061,P090,2024-10-25,5,Exceeded all my expectations
+C061,P058,2025-01-19,4,Great quality for the price
+C003,P033,2024-10-17,3,"It's okay, nothing special"
+C071,P094,2024-06-10,4,Very satisfied with this purchase
+C015,P100,2024-07-08,3,Meets basic expectations
+C016,P007,2025-03-22,3,Average product
+C080,P059,2024-06-16,2,Some quality issues
+C077,P069,2025-02-23,1,Would never buy again
+C074,P031,2024-06-27,5,Best purchase I've made this year!
+C055,P001,2025-02-07,4,Great quality for the price
+C074,P054,2025-03-02,3,Average product
+C011,P068,2024-08-14,5,Absolutely love this product!
+C068,P070,2025-03-26,4,Would definitely recommend
+C071,P003,2024-11-19,4,Very satisfied with this purchase
+C006,P082,2024-12-14,4,Very satisfied with this purchase
+C033,P096,2024-10-05,1,Terrible product
+C045,P031,2024-06-14,5,Exceeded all my expectations
+C014,P099,2025-01-15,4,Very satisfied with this purchase
+C018,P006,2024-07-27,4,Very satisfied with this purchase
+C083,P023,2025-03-29,5,Exceeded all my expectations
+C060,P090,2024-09-26,4,Great quality for the price
+C018,P009,2025-04-22,5,Best purchase I've made this year!
+C005,P038,2024-10-17,3,"It's okay, nothing special"
+C006,P041,2025-04-19,5,Exceeded all my expectations
+C051,P070,2024-09-04,4,Great quality for the price
+C097,P083,2024-07-26,3,Meets basic expectations
+C100,P007,2024-12-14,5,Best purchase I've made this year!
+C035,P016,2024-07-09,5,Best purchase I've made this year!
+C052,P096,2024-10-04,4,Very satisfied with this purchase
+C044,P024,2024-08-01,4,Very satisfied with this purchase
+C048,P067,2025-01-17,3,"It's okay, nothing special"
+C094,P055,2024-06-26,2,Not worth the price
+C024,P070,2024-06-12,3,"It's okay, nothing special"
+C011,P042,2024-07-16,5,Best purchase I've made this year!
+C058,P078,2024-05-19,5,Absolutely love this product!
+C089,P057,2024-11-26,4,Great quality for the price
+C094,P046,2024-07-19,4,Very satisfied with this purchase
+C036,P082,2024-11-08,5,Absolutely love this product!
+C010,P086,2024-07-25,4,Very satisfied with this purchase
+C066,P096,2025-01-22,5,Absolutely love this product!
+C019,P078,2024-06-09,5,Best purchase I've made this year!
+C005,P017,2025-01-12,2,Not worth the price
+C047,P047,2024-07-19,4,Would definitely recommend
+C005,P078,2024-09-09,3,Meets basic expectations
+C048,P048,2024-07-07,4,Great quality for the price
+C074,P018,2024-12-21,4,Very satisfied with this purchase
+C041,P084,2024-09-03,3,"It's okay, nothing special"
+C004,P095,2024-05-21,3,Average product
+C050,P072,2025-02-05,2,Some quality issues
+C091,P058,2024-12-20,3,Average product
+C037,P089,2024-07-29,5,Best purchase I've made this year!
+C026,P016,2024-09-25,2,Could be better
+C058,P023,2024-09-20,5,Best purchase I've made this year!
+C012,P088,2024-12-29,5,Best purchase I've made this year!
+C086,P045,2024-10-01,5,Exceeded all my expectations
+C070,P038,2024-10-16,5,Absolutely love this product!
+C092,P091,2025-01-20,5,Exceeded all my expectations
+C023,P047,2024-05-31,4,Great quality for the price
+C026,P018,2024-11-18,3,Meets basic expectations
+C004,P047,2025-04-01,4,Very satisfied with this purchase
+C060,P071,2025-03-28,2,Could be better
+C009,P040,2025-03-13,4,Would definitely recommend
+C093,P062,2025-03-01,4,Very satisfied with this purchase
+C074,P010,2025-01-20,2,Some quality issues
+C083,P010,2024-08-07,4,Would definitely recommend
+C067,P045,2024-10-18,2,Not worth the price
+C082,P076,2025-02-13,3,"It's okay, nothing special"
+C056,P065,2024-12-16,5,Absolutely love this product!
+C016,P067,2024-11-24,3,"It's okay, nothing special"
+C021,P042,2024-12-28,5,Absolutely love this product!
+C045,P067,2024-07-28,5,Absolutely love this product!
+C033,P026,2024-08-15,4,Would definitely recommend
+C036,P017,2025-03-11,4,Would definitely recommend
+C069,P012,2024-12-09,4,Great quality for the price
+C076,P075,2024-11-29,3,Average product
+C080,P093,2024-05-26,5,Best purchase I've made this year!
+C073,P006,2024-11-07,5,Absolutely love this product!
+C011,P006,2024-06-30,5,Exceeded all my expectations
+C034,P084,2024-12-10,3,Average product
+C054,P080,2024-08-20,4,Very satisfied with this purchase
+C081,P070,2024-07-18,3,Meets basic expectations
+C062,P032,2025-04-07,5,Exceeded all my expectations
+C052,P039,2025-05-04,4,Would definitely recommend
+C008,P021,2024-09-17,4,Very satisfied with this purchase
+C060,P027,2024-05-21,3,"It's okay, nothing special"
+C041,P092,2025-01-23,3,Meets basic expectations
+C052,P017,2025-03-12,5,Exceeded all my expectations
+C072,P014,2024-08-14,3,Meets basic expectations
+C016,P035,2024-08-02,4,Great quality for the price
+C013,P007,2024-06-28,3,Meets basic expectations
+C079,P054,2024-07-20,3,"It's okay, nothing special"
+C042,P074,2024-10-19,5,Absolutely love this product!
+C098,P021,2025-02-13,4,Would definitely recommend
+C060,P064,2024-09-06,5,Best purchase I've made this year!
+C003,P012,2025-03-25,5,Exceeded all my expectations
+C059,P031,2024-07-31,3,Meets basic expectations
+C007,P007,2025-01-07,3,Average product
+C084,P087,2025-04-03,4,Would definitely recommend
+C002,P014,2024-06-18,4,Very satisfied with this purchase
+C094,P047,2024-12-14,5,Best purchase I've made this year!
+C006,P052,2025-03-15,2,Not worth the price
+C025,P047,2024-11-27,4,Great quality for the price
+C050,P065,2024-08-08,4,Would definitely recommend
+C036,P080,2025-04-19,5,Absolutely love this product!
+C017,P013,2024-08-21,4,Very satisfied with this purchase
+C072,P047,2024-09-13,5,Absolutely love this product!
+C078,P066,2025-04-28,4,Great quality for the price
+C006,P005,2025-02-25,2,Some quality issues
+C061,P067,2024-10-20,4,Would definitely recommend
+C066,P018,2025-03-03,3,Average product
+C041,P021,2025-01-06,4,Would definitely recommend
+C095,P039,2024-12-15,4,Would definitely recommend
+C066,P069,2025-01-20,4,Would definitely recommend
+C039,P061,2025-01-19,5,Best purchase I've made this year!
+C043,P087,2025-04-08,2,Some quality issues
+C075,P040,2024-06-23,5,Exceeded all my expectations
+C089,P081,2024-08-17,1,Complete waste of money
+C034,P084,2024-07-05,5,Exceeded all my expectations
+C074,P030,2024-10-24,5,Exceeded all my expectations
+C062,P022,2024-05-17,4,Would definitely recommend
+C080,P100,2024-10-12,5,Absolutely love this product!
+C088,P032,2025-04-07,1,Would never buy again
+C015,P025,2024-06-28,1,Complete waste of money
+C054,P020,2024-12-11,4,Great quality for the price
+C053,P065,2025-01-24,5,Best purchase I've made this year!
+C095,P094,2024-06-02,2,Could be better
+C067,P027,2024-06-17,4,Would definitely recommend
+C062,P068,2024-08-14,4,Great quality for the price
+C059,P069,2024-10-28,3,Meets basic expectations
+C087,P099,2025-04-02,5,Exceeded all my expectations
+C083,P089,2024-11-24,3,Meets basic expectations
+C025,P032,2025-01-02,3,Meets basic expectations
+C029,P039,2024-09-05,5,Exceeded all my expectations
+C027,P089,2024-08-22,5,Best purchase I've made this year!
+C062,P045,2025-05-09,4,Would definitely recommend
+C036,P037,2024-08-29,2,Not worth the price
+C070,P049,2024-10-21,5,Best purchase I've made this year!
+C045,P099,2024-11-20,5,Best purchase I've made this year!
+C006,P037,2024-11-24,5,Absolutely love this product!
+C045,P057,2024-11-22,5,Exceeded all my expectations
+C062,P028,2025-02-23,3,Average product
+C035,P072,2025-02-03,5,Absolutely love this product!
+C014,P079,2024-11-17,5,Absolutely love this product!
+C032,P007,2025-01-27,5,Exceeded all my expectations
+C029,P082,2024-12-07,3,"It's okay, nothing special"
+C053,P043,2025-01-13,5,Absolutely love this product!
+C088,P099,2024-10-30,2,Not worth the price
+C021,P053,2024-10-08,5,Best purchase I've made this year!
+C062,P084,2024-07-22,3,Meets basic expectations
+C042,P037,2024-11-23,4,Great quality for the price
+C084,P074,2025-01-17,3,Average product
+C093,P005,2024-06-09,5,Absolutely love this product!
+C054,P023,2024-11-17,5,Absolutely love this product!
+C051,P064,2025-02-18,3,Average product
+C038,P005,2024-07-01,1,Would never buy again
+C078,P014,2024-08-12,5,Best purchase I've made this year!
+C037,P059,2024-11-27,5,Exceeded all my expectations
+C068,P064,2025-05-02,5,Absolutely love this product!
+C065,P060,2024-12-22,3,"It's okay, nothing special"
+C043,P021,2024-09-29,5,Exceeded all my expectations
+C033,P092,2024-09-24,3,Average product
+C044,P038,2024-12-17,4,Great quality for the price
+C023,P079,2024-12-10,5,Best purchase I've made this year!
+C055,P066,2025-03-13,3,Meets basic expectations
+C086,P013,2025-01-15,3,"It's okay, nothing special"
+C062,P042,2024-10-31,5,Absolutely love this product!
+C034,P050,2024-10-27,3,Meets basic expectations
+C043,P039,2024-06-08,4,Would definitely recommend
+C002,P034,2025-01-06,5,Exceeded all my expectations
+C031,P008,2024-07-19,5,Best purchase I've made this year!
+C040,P021,2024-07-23,4,Would definitely recommend
+C091,P099,2024-11-16,3,"It's okay, nothing special"
+C082,P038,2025-04-19,4,Great quality for the price
+C029,P018,2025-02-13,4,Very satisfied with this purchase
+C096,P078,2025-02-17,4,Would definitely recommend
+C071,P061,2025-04-05,5,Exceeded all my expectations
+C028,P098,2025-01-05,3,Average product
+C011,P068,2024-10-23,4,Would definitely recommend
+C047,P010,2024-08-02,5,Absolutely love this product!
+C008,P071,2024-07-10,5,Absolutely love this product!
+C074,P069,2024-11-21,2,Some quality issues
+C067,P057,2024-11-29,2,Could be better
+C092,P075,2024-10-31,4,Would definitely recommend
+C058,P008,2024-05-24,4,Would definitely recommend
+C054,P059,2024-06-20,4,Would definitely recommend
+C060,P087,2024-06-20,5,Exceeded all my expectations
+C003,P051,2025-01-02,3,"It's okay, nothing special"
+C096,P028,2024-09-20,4,Great quality for the price
+C055,P045,2024-06-01,5,Exceeded all my expectations
+C008,P009,2025-04-29,5,Best purchase I've made this year!

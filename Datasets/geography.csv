@@ -1,0 +1,26 @@
+GeographyID,Country,City
+G01,USA,New York
+G02,USA,Los Angeles
+G03,USA,Chicago
+G04,USA,Houston
+G05,USA,Miami
+G06,UK,London
+G07,UK,Manchester
+G08,UK,Edinburgh
+G09,UK,Birmingham
+G10,UK,Liverpool
+G11,Canada,Toronto
+G12,Canada,Vancouver
+G13,Canada,Montreal
+G14,Canada,Calgary
+G15,Canada,Ottawa
+G16,Australia,Sydney
+G17,Australia,Melbourne
+G18,Australia,Brisbane
+G19,Australia,Perth
+G20,Australia,Adelaide
+G21,Germany,Berlin
+G22,Germany,Munich
+G23,Germany,Hamburg
+G24,Germany,Frankfurt
+G25,Germany,Cologne
